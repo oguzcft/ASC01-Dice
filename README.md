@@ -1,2 +1,2 @@
-# ASC01-Dice-
+# ASC01-Dice
 ASC Bootcamp
